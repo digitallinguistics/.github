@@ -1,4 +1,4 @@
-[<img src=./wugbot.svg align=center alt='A wugbot (a robotic wug)'>][GitHub]
+[<img src=./digitalis.svg align=center alt='A digitalis flower, the symbol of the Digital Linguistics (DLx) organization'>][GitHub]
 
 ## Digital Linguistics (DLx) is the science of digital data management for linguistics.
 
